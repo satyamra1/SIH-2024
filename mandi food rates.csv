@@ -1,0 +1,679 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Andhra Pradesh,Guntur,Tenali,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,19/08/2024,8600,8800,8700
+Andhra Pradesh,Kurnool,Nandyal,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,5500,5500,5500
+Himachal Pradesh,Bilaspur,Bilaspur,Onion,Other,FAQ,19/08/2024,4000,4200,4100
+Himachal Pradesh,Kangra,Kangra,Onion,Other,FAQ,19/08/2024,4200,4500,4300
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Onion,1st Sort,FAQ,19/08/2024,4500,4600,4550
+Karnataka,Koppal,Kustagi,Green Gram (Moong)(Whole),Hybrid,FAQ,19/08/2024,6900,7210,7000
+Kerala,Kottayam,Athirampuzha,Onion,Big,FAQ,19/08/2024,4300,4500,4400
+Kerala,Kottayam,Ettumanoor,Onion,Big,FAQ,19/08/2024,4200,4600,4400
+Kerala,Kottayam,Ettumanoor,Potato,Potato,FAQ,19/08/2024,4400,4600,4500
+Kerala,Kottayam,Kottayam,Green Gram (Moong)(Whole),Other,FAQ,19/08/2024,10500,12500,11500
+Kerala,Kottayam,Pala,Onion,Onion,FAQ,19/08/2024,7500,8600,8000
+Kerala,Kozhikode(Calicut),Kallachi,Onion,Other,FAQ,19/08/2024,4000,4400,4200
+Kerala,Malappuram,Manjeri,Green Gram (Moong)(Whole),Bold,FAQ,19/08/2024,11500,11600,11550
+Kerala,Thirssur,Kodungalloor,Onion,Other,FAQ,19/08/2024,4100,4500,4200
+Kerala,Thiruvananthapuram,Pothencode,Onion,Other,FAQ,19/08/2024,25300,25380,25340
+Madhya Pradesh,Ujjain,Ujjain,Potato,Chips,FAQ,19/08/2024,2200,2200,2200
+Manipur,Bishnupur,Bishenpur,Masur Dal,Masur Dal,FAQ,19/08/2024,9500,10000,9750
+Manipur,Bishnupur,Bishenpur,Onion,Onion,FAQ,19/08/2024,5500,6000,5750
+Manipur,Bishnupur,Bishenpur,Potato,Other,FAQ,19/08/2024,4000,4500,4250
+Manipur,Imphal East,Lamlong Bazaar,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19/08/2024,17000,18000,17500
+Manipur,Imphal East,Lamlong Bazaar,Masur Dal,Masur Dal,FAQ,19/08/2024,9000,10000,9500
+Manipur,Imphal East,Lamlong Bazaar,Potato,Other,FAQ,19/08/2024,4000,4500,4250
+Manipur,Imphal East,Lamlong Bazaar,Rice,Other,FAQ,19/08/2024,5300,5300,5300
+Manipur,Imphal West,Imphal,Black Gram (Urd Beans)(Whole),Black Gram Dal,FAQ,19/08/2024,13000,14000,13500
+Manipur,Kakching,Kakching Market,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19/08/2024,18500,19000,18750
+Manipur,Kakching,Kakching Market,Rice,Other,FAQ,19/08/2024,5300,5300,5300
+Manipur,Thoubal,Thoubal,Potato,Other,FAQ,19/08/2024,4000,4500,4250
+Nagaland,Kohima,Jalukie,Potato,Potato,FAQ,19/08/2024,4000,4500,4200
+Punjab,Fatehgarh,Bassi Pathana,Potato,Potato,FAQ,19/08/2024,2000,2200,2100
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Potato,Potato,FAQ,19/08/2024,1200,1800,1600
+Punjab,Jalandhar,Bilga,Potato,Other,FAQ,19/08/2024,1800,2000,1900
+Punjab,Muktsar,Bariwala,Onion,Nasik,FAQ,19/08/2024,2800,2800,2800
+Punjab,Sangrur,Malerkotla,Potato,Other,FAQ,19/08/2024,1000,1500,1200
+Punjab,Sangrur,Sangrur,Potato,Desi,FAQ,19/08/2024,600,1300,1000
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6500,7000,7000
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,6000,6000
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4300,4300
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6000,6800,6800
+Tamil Nadu,Coimbatore,Udumalpet,Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5400,5400
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4400,4600,4600
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,7000,7000
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,5200,5200
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4800,4800
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5500,5500
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4400,4400
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Namakkal,Tiruchengode,Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4000,4000
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,9000,9000
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Thirunelveli,Kandiyaperi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4600,4600
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4600,4600
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4600,4600
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,7000,7000
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3800,4200,4200
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4000,4000
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,5000,5000
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,2500,3500,3500
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5400,5400
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,4200,4200
+Tamil Nadu,Vellore,Vellore,Onion,Bellary,Local,19/08/2024,4000,4400,4400
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Villupuram,Tindivanam,Onion,Bellary,Local,19/08/2024,4600,5600,5600
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4800,4800
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,19/08/2024,4400,4400,4400
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Potato,(Red Nanital),FAQ,19/08/2024,3800,3800,3800
+Tripura,Dhalai,Gandacharra,Potato,Jalander,FAQ,19/08/2024,4100,4300,4200
+Tripura,Gomati,Silachhari,Potato,Other,FAQ,19/08/2024,3800,4000,3900
+Tripura,Gomati,Silachhari,Rice,Masuri,FAQ,19/08/2024,4000,4200,4100
+Tripura,North Tripura,Dasda,Rice,Masuri,FAQ,19/08/2024,3300,3500,3400
+Uttar Pradesh,Balrampur,Tulsipur,Onion,Red,FAQ,19/08/2024,3000,3070,3040
+Uttar Pradesh,Gonda,Gonda,Black Gram (Urd Beans)(Whole),Desi,FAQ,19/08/2024,9270,9350,9300
+Uttar Pradesh,Gonda,Gonda,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,19/08/2024,10450,10600,10500
+Uttar Pradesh,Gonda,Gonda,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,10175,10300,10200
+Uttar Pradesh,Gonda,Nawabganj,Potato,Desi,FAQ,19/08/2024,2340,2400,2380
+Uttar Pradesh,Jhansi,Jhansi,Onion,Red,FAQ,19/08/2024,3000,3250,3050
+Uttar Pradesh,Jhansi,Moth,Onion,Red,FAQ,19/08/2024,3000,3150,3100
+Uttar Pradesh,Prayagraj,Ajuha,Potato,Desi,FAQ,19/08/2024,2240,2380,2300
+Uttar Pradesh,Sambhal,Bhehjoi,Potato,Potato,FAQ,19/08/2024,2000,2010,2005
+Uttar Pradesh,Sitapur,Viswan,Onion,Red,FAQ,19/08/2024,2890,2930,2910
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Potato,Other,FAQ,19/08/2024,400,600,500
+West Bengal,Bankura,Bankura Sadar,Onion,Nasik,FAQ,19/08/2024,4100,4300,4200
+West Bengal,Bankura,Bankura Sadar,Potato,Jyoti,FAQ,19/08/2024,2320,2380,2340
+West Bengal,Bankura,Bishnupur(Bankura),Onion,Nasik,FAQ,19/08/2024,4000,4500,4300
+West Bengal,Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,19/08/2024,2200,2320,2250
+West Bengal,Bankura,Bishnupur(Bankura),Wheat,Sonalika,FAQ,19/08/2024,2750,3000,2800
+West Bengal,Bankura,Indus(Bankura Sadar),Potato,Jyoti,FAQ,19/08/2024,2380,2450,2400
+West Bengal,Bankura,Indus(Bankura Sadar),Rice,Fine,FAQ,19/08/2024,4550,4650,4600
+West Bengal,Dakshin Dinajpur,Balurghat,Onion,1st Sort,FAQ,19/08/2024,3800,4000,3900
+West Bengal,Darjeeling,Karsiyang(Matigara),Potato,Local,FAQ,19/08/2024,3800,4000,3900
+West Bengal,Darjeeling,Karsiyang(Matigara),Potato,Other,FAQ,19/08/2024,3200,3500,3300
+West Bengal,Darjeeling,Siliguri,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19/08/2024,14000,15000,14500
+West Bengal,Jalpaiguri,Moynaguri,Potato,Other,FAQ,19/08/2024,2350,2400,2400
+West Bengal,Murshidabad,Jangipur,Rice,Fine,FAQ,19/08/2024,3610,3660,3640
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Potato,Other,FAQ,19/08/2024,2600,3300,2950
+Haryana,Kurukshetra,Shahabad,Potato,Potato,FAQ,19/08/2024,1010,2000,1200
+Himachal Pradesh,Chamba,Chamba,Potato,Other,FAQ,19/08/2024,2400,2600,2500
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Onion,Other,FAQ,19/08/2024,4000,4200,4200
+Himachal Pradesh,Kangra,Palampur,Onion,Other,FAQ,19/08/2024,4400,4600,4500
+Karnataka,Chikmagalur,Chikkamagalore,Wheat,Other,FAQ,19/08/2024,2500,2500,2500
+Karnataka,Raichur,Lingasugur,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,19/08/2024,7150,7600,7300
+Kerala,Alappuzha,Cherthala,Potato,Chips,FAQ,19/08/2024,5000,5200,5100
+Kerala,Alappuzha,Mannar,Onion,Small,FAQ,19/08/2024,6000,6500,6200
+Kerala,Ernakulam,Perumbavoor,Potato,Potato,FAQ,19/08/2024,3500,4500,4000
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,19/08/2024,17200,18000,17500
+Kerala,Kannur,Taliparamba,Potato,Potato,FAQ,19/08/2024,4300,4500,4400
+Kerala,Kollam,Kottarakkara,Onion,Other,FAQ,19/08/2024,5000,5000,5000
+Kerala,Kottayam,Kanjirappally,Onion,Big,FAQ,19/08/2024,4500,5000,4800
+Kerala,Kottayam,Kottayam,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,19/08/2024,8000,8800,8400
+Kerala,Kottayam,Kottayam,Onion,Big,FAQ,19/08/2024,3600,4200,4000
+Kerala,Kottayam,Kottayam,Potato,Potato,FAQ,19/08/2024,4000,4600,4200
+Kerala,Kottayam,Pala,Potato,Potato,FAQ,19/08/2024,4200,4600,4400
+Kerala,Kozhikode(Calicut),Perambra,Onion,Other,FAQ,19/08/2024,4300,4500,4400
+Kerala,Kozhikode(Calicut),Quilandy,Potato,Other,FAQ,19/08/2024,4100,4200,4200
+Kerala,Kozhikode(Calicut),Thamarassery,Potato,Other,FAQ,19/08/2024,3500,4200,3700
+Kerala,Malappuram,Manjeri,Bengal Gram(Gram)(Whole),Bold,FAQ,19/08/2024,8200,8300,8250
+Kerala,Malappuram,Manjeri,Potato,Other,FAQ,19/08/2024,3800,3900,3850
+Kerala,Malappuram,Manjeri,Rice,Other,FAQ,19/08/2024,4600,4700,4650
+Kerala,Palakad,Palakkad,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,19/08/2024,12000,13000,12600
+Kerala,Palakad,Palakkad,Onion,Big,FAQ,19/08/2024,4400,5000,4800
+Kerala,Palakad,Palakkad,Onion,Small,FAQ,19/08/2024,6800,8000,7500
+Madhya Pradesh,Alirajpur,Alirajpur,Bengal Gram(Gram)(Whole),Gram,FAQ,19/08/2024,6000,6000,6000
+Madhya Pradesh,Alirajpur,Alirajpur,Wheat,Wheat,FAQ,19/08/2024,2600,2600,2600
+Madhya Pradesh,Dhar,Dhar,Wheat,Malwa Shakti,FAQ,19/08/2024,2650,2665,2665
+Maharashtra,Sholapur,Akluj,Potato,Other,FAQ,19/08/2024,2500,3300,3000
+Manipur,Bishnupur,Bishenpur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,7400,8000,7700
+Manipur,Bishnupur,Bishenpur,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,19/08/2024,13500,14000,13750
+Manipur,Imphal East,Lamlong Bazaar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,14000,15000,14500
+Manipur,Kakching,Kakching Market,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,19/08/2024,13500,14000,13750
+Manipur,Kakching,Kakching Market,Potato,Other,FAQ,19/08/2024,4000,4500,4250
+Manipur,Thoubal,Thoubal,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,8500,9000,8750
+Manipur,Thoubal,Thoubal,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,14500,15000,14750
+Manipur,Thoubal,Thoubal,Onion,Other,FAQ,19/08/2024,5500,6000,5750
+Manipur,Thoubal,Thoubal,Rice,Other,FAQ,19/08/2024,5300,5300,5300
+Nagaland,Kohima,Kohima,Potato,Potato,FAQ,19/08/2024,5000,5200,5100
+Nagaland,Mokokchung,Mokokchung Town,Onion,Other,FAQ,19/08/2024,4500,5500,5000
+Odisha,Dhenkanal,Hindol,Onion,Other,FAQ,19/08/2024,3800,4200,4000
+Punjab,Bhatinda,Bhucho,Onion,Other,FAQ,19/08/2024,1800,1900,1850
+Punjab,Fatehgarh,Bassi Pathana,Onion,Onion,FAQ,19/08/2024,4000,4300,4200
+Punjab,Hoshiarpur,Dasuya,Onion,Other,FAQ,19/08/2024,2800,3200,3000
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Onion,Onion,FAQ,19/08/2024,2500,3200,2800
+Punjab,Jalandhar,Bilga,Onion,Other,FAQ,19/08/2024,2300,2500,2400
+Punjab,Jalandhar,Phillaur(Apra Mandi),Onion,Other,FAQ,19/08/2024,4000,4000,4000
+Punjab,Jalandhar,Phillaur(Apra Mandi),Potato,Other,FAQ,19/08/2024,2500,2500,2500
+Punjab,Mohali,Lalru,Potato,Other,FAQ,19/08/2024,1800,2000,2000
+Punjab,Sangrur,Sangrur,Onion,Onion,FAQ,19/08/2024,2000,3000,2500
+Punjab,Tarntaran,Patti,Onion,Other,FAQ,19/08/2024,2400,2800,2600
+Punjab,Tarntaran,Patti,Potato,Other,FAQ,19/08/2024,1000,1500,1200
+Rajasthan,Ganganagar,Suratgarh,Onion,1st Sort,FAQ,19/08/2024,2800,3300,3000
+Rajasthan,Ganganagar,Suratgarh,Wheat,Other,FAQ,19/08/2024,2410,2451,2430
+Rajasthan,Hanumangarh,Goluwala,Potato,(Red Nanital),FAQ,19/08/2024,1800,1800,1800
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Onion,Bellary,Local,19/08/2024,4500,5200,5200
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Potato,(Red Nanital),Local,19/08/2024,4000,5200,5200
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,5400,5400
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3800,4200,4200
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,6000,6000
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,2500,3500,3500
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4200,4200
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3800,4500,4500
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,7000,7000
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5400,5400
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5500,5500
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4500,4500
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,5400,5400
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,9000,9000
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,6500,6500
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,6500,6500
+Tamil Nadu,Madurai,Usilampatty,Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3000,3500,3500
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6000,6000,6000
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Potato,(Red Nanital),Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4400,4800,4800
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5500,6000,6000
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4000,4000
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,8000,8000
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,6000,6000
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,6800,6800
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,5400,5400
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,4200,4200
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4200,4500,4500
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4600,4600,4600
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3500,4000,4000
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3300,4000,4000
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4400,4400
+Tamil Nadu,Vellore,Thirupathur,Potato,(Red Nanital),Local,19/08/2024,4000,4400,4400
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,6000,6000
+Tamil Nadu,Villupuram,Ulundurpettai,Onion,Bellary,Local,19/08/2024,4600,4600,4600
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5500,6000,6000
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Potato,(Red Nanital),FAQ,19/08/2024,3800,3800,3800
+Uttar Pradesh,Agra,Fatehpur Sikri,Potato,Local,FAQ,19/08/2024,2020,2250,2135
+Uttar Pradesh,Baghpat,Bagpat,Potato,Desi,FAQ,19/08/2024,1800,2200,2000
+Uttar Pradesh,Balrampur,Tulsipur,Potato,Desi,FAQ,19/08/2024,2410,2470,2440
+Uttar Pradesh,Gonda,Gonda,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,7125,7200,7150
+Uttar Pradesh,Gonda,Gonda,Potato,Chandermukhi,FAQ,19/08/2024,2350,2400,2375
+Uttar Pradesh,Hathras,Shadabad,Potato,Desi,FAQ,19/08/2024,1500,1600,1550
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,6845,7045,6945
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Rice,Common,FAQ,19/08/2024,3050,3250,3150
+Uttar Pradesh,Kaushambi,Manjhanpur,Potato,Desi,FAQ,19/08/2024,2220,2360,2285
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Onion,Red,FAQ,19/08/2024,3350,3650,3450
+Uttar Pradesh,Prayagraj,Allahabad,Onion,Red,FAQ,19/08/2024,3150,3300,3200
+Uttar Pradesh,Prayagraj,Allahabad,Potato,Chandermukhi,FAQ,19/08/2024,2300,2400,2350
+Uttar Pradesh,Saharanpur,Gangoh,Onion,Red,FAQ,19/08/2024,3000,3200,3100
+Uttar Pradesh,Sitapur,Sitapur,Potato,Desi,FAQ,19/08/2024,2100,2420,2355
+West Bengal,Bankura,Bankura Sadar,Masur Dal,Masur Dal,FAQ,19/08/2024,8200,9700,9600
+West Bengal,Bankura,Khatra,Potato,Jyoti,FAQ,19/08/2024,2220,2320,2260
+West Bengal,Birbhum,Bolpur,Onion,Nasik,FAQ,19/08/2024,3300,3500,3400
+West Bengal,Birbhum,Bolpur,Wheat,Sonalika,FAQ,19/08/2024,2200,2400,2300
+West Bengal,Darjeeling,Siliguri,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,9800,10200,10000
+West Bengal,Darjeeling,Siliguri,Masur Dal,Masur Dal,FAQ,19/08/2024,9600,9800,9700
+West Bengal,Darjeeling,Siliguri,Potato,Jyoti,FAQ,19/08/2024,2300,2350,2330
+West Bengal,Puruliya,Purulia,Masur Dal,Masur Dal,FAQ,19/08/2024,9300,9500,9400
+West Bengal,Puruliya,Purulia,Onion,Other,FAQ,19/08/2024,3800,4200,3900
+West Bengal,Puruliya,Purulia,Potato,Jyoti,FAQ,19/08/2024,2280,2300,2290
+Andhra Pradesh,Chittor,Palamaner,Potato,(Red Nanital),FAQ,19/08/2024,2000,3000,2500
+Haryana,Gurgaon,Gurgaon,Onion,Other,FAQ,19/08/2024,1500,2500,2000
+Haryana,Hissar,Hansi,Potato,Other,FAQ,19/08/2024,2000,3500,2000
+Himachal Pradesh,Bilaspur,Bilaspur,Potato,Other,FAQ,19/08/2024,2200,3300,2800
+Himachal Pradesh,Chamba,Chamba,Onion,Other,FAQ,19/08/2024,4300,4700,4500
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Potato,Other,FAQ,19/08/2024,2200,3000,2600
+Himachal Pradesh,Kullu,Bhuntar,Onion,Other,FAQ,19/08/2024,3800,4000,3900
+Himachal Pradesh,Mandi,Mandi(Takoli),Onion,Other,FAQ,19/08/2024,3500,4000,3800
+Himachal Pradesh,Una,Una,Potato,Potato,FAQ,19/08/2024,2000,2400,2200
+Karnataka,Chikmagalur,Chikkamagalore,Onion,Other,FAQ,19/08/2024,3359,3659,3459
+Karnataka,Raichur,Lingasugur,Sunflower,Sunflower,FAQ,19/08/2024,4700,4750,4725
+Kerala,Alappuzha,Mannar,Onion,Big,FAQ,19/08/2024,4000,4300,4200
+Kerala,Alappuzha,Mannar,Potato,Other,FAQ,19/08/2024,3900,4200,4000
+Kerala,Idukki,Thodupuzha,Onion,Big,FAQ,19/08/2024,3500,4200,4000
+Kerala,Idukki,Thodupuzha,Potato,Other,FAQ,19/08/2024,4000,4300,4300
+Kerala,Idukki,Thodupuzha,Rice,IR-8,FAQ,19/08/2024,3600,3800,3800
+Kerala,Kannur,Kannur,Onion,Other,FAQ,19/08/2024,4400,4600,4500
+Kerala,Kasargod,Kanjangadu,Potato,Potato,FAQ,19/08/2024,3500,4000,3700
+Kerala,Kottayam,Athirampuzha,Onion,Onion,FAQ,19/08/2024,4800,5000,4900
+Kerala,Kottayam,Kanjirappally,Potato,Potato,FAQ,19/08/2024,5000,5500,5300
+Kerala,Kottayam,Kottayam,Onion,Onion,FAQ,19/08/2024,5800,6200,6000
+Kerala,Kottayam,Pala,Onion,Big,FAQ,19/08/2024,4200,4600,4400
+Kerala,Kottayam,Thalayolaparambu,Onion,Big,FAQ,19/08/2024,4200,4600,4400
+Kerala,Kottayam,Thalayolaparambu,Onion,Onion,FAQ,19/08/2024,5000,5400,5200
+Kerala,Kozhikode(Calicut),Kallachi,Potato,Other,FAQ,19/08/2024,3800,4200,4000
+Kerala,Kozhikode(Calicut),Mukkom,Potato,Other,FAQ,19/08/2024,3800,4200,4000
+Kerala,Kozhikode(Calicut),Palayam,Potato,Other,FAQ,19/08/2024,3400,3500,3400
+Kerala,Kozhikode(Calicut),Perambra,Potato,Other,FAQ,19/08/2024,3800,3900,3800
+Kerala,Palakad,Palakkad,Bengal Gram(Gram)(Whole),Average (Whole),FAQ,19/08/2024,9000,10000,9600
+Kerala,Palakad,Pattambi,Onion,Small,FAQ,19/08/2024,5000,5500,5200
+Kerala,Thirssur,Chavakkad,Potato,Other,FAQ,19/08/2024,4000,4800,4800
+Kerala,Thirssur,Chelakkara,Onion,Other,FAQ,19/08/2024,3800,4000,3900
+Kerala,Thiruvananthapuram,Pothencode,Potato,Other,FAQ,19/08/2024,28800,28880,28840
+Madhya Pradesh,Katni,Katni,Wheat,Mill Quality,FAQ,19/08/2024,2550,2560,2560
+Madhya Pradesh,Sagar,Deori,Bengal Gram(Gram)(Whole),Gram,FAQ,19/08/2024,7110,7110,7110
+Manipur,Bishnupur,Bishenpur,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,15500,16000,15750
+Manipur,Bishnupur,Bishenpur,Rice,Other,FAQ,19/08/2024,5300,5300,5300
+Manipur,Imphal East,Lamlong Bazaar,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,8500,9000,8750
+Manipur,Imphal East,Lamlong Bazaar,Onion,Other,FAQ,19/08/2024,5000,6000,5500
+Manipur,Kakching,Kakching Market,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,19/08/2024,10500,11000,10750
+Manipur,Kakching,Kakching Market,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,8500,9000,8750
+Manipur,Kakching,Kakching Market,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,15500,16000,15750
+Manipur,Kakching,Kakching Market,Masur Dal,Masur Dal,FAQ,19/08/2024,10500,11000,10750
+Manipur,Kakching,Kakching Market,Onion,Red,FAQ,19/08/2024,5500,6000,5750
+Manipur,Thoubal,Thoubal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19/08/2024,18500,19000,18750
+Manipur,Thoubal,Thoubal,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,19/08/2024,10500,11000,10750
+Nagaland,Mokokchung,Mangkolemba,Onion,Other,FAQ,19/08/2024,4500,5500,5000
+Nagaland,Mokokchung,Mokokchung Town,Potato,Other,FAQ,19/08/2024,3500,4500,4000
+Odisha,Bhadrak,Bhadrak,Potato,(Red Nanital),FAQ,19/08/2024,3000,3800,3400
+Odisha,Jharsuguda,Jharsuguda,Onion,Other,FAQ,19/08/2024,4000,4500,4000
+Punjab,Bhatinda,Bhagta Bhai Ka,Onion,Other,FAQ,19/08/2024,3800,3800,3800
+Punjab,Fazilka,Fazilka,Onion,Other,FAQ,19/08/2024,3500,4500,4000
+Punjab,Fazilka,Fazilka,Potato,Other,FAQ,19/08/2024,1500,2500,2000
+Punjab,Ferozpur,Mamdot,Onion,Other,FAQ,19/08/2024,4700,4900,4800
+Punjab,Hoshiarpur,Dasuya,Potato,Other,FAQ,19/08/2024,2000,2400,2200
+Punjab,Hoshiarpur,Mukerian(Talwara),Onion,Onion,FAQ,19/08/2024,3800,4200,4000
+Punjab,Hoshiarpur,Tanda Urmur,Potato,Other,FAQ,19/08/2024,2400,2800,2600
+Punjab,Ludhiana,Doraha,Potato,Other,FAQ,19/08/2024,1800,2000,1900
+Punjab,Ludhiana,Khanna,Onion,Other,FAQ,19/08/2024,2000,3200,2500
+Punjab,Ludhiana,Ludhiana,Potato,Other,FAQ,19/08/2024,400,1800,900
+Punjab,Moga,Moga,Onion,Other,FAQ,19/08/2024,3500,4100,3800
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,2800,3800,3800
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,2500,3500,3500
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3000,3500,3500
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4300,4300
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3600,6800,6800
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4400,4400
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,6800,6800
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5200,5200,5200
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5500,6200,6200
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3000,4000,4000
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,7000,7000
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,6500,6500
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,6000,6000
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5500,5500,5500
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,6000,6000
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3000,4500,4500
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5400,5400,5400
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5400,5600,5600
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4500,4500
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5500,6000,6000
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4600,5000,5000
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,7000,7000
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Onion,Bellary,Local,19/08/2024,4500,5500,5500
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4200,4200
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4600,4600
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4200,4200
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,5000,5000
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3000,4000,4000
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4200,5000,5000
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thiruvarur,Valangaiman,Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Tuticorin,Thoothukudi,Black Gram (Urd Beans)(Whole),Other,Local,19/08/2024,6500,7000,6800
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Vellore,Thirupathur,Onion,Bellary,Local,19/08/2024,4500,4800,4800
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6000,9000,9000
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,19/08/2024,4000,4000,4000
+Tripura,Dhalai,Kulai,Potato,Local,FAQ,19/08/2024,3500,4000,3800
+Tripura,North Tripura,Dasda,Onion,Onion,FAQ,19/08/2024,4000,5000,4500
+Uttar Pradesh,Agra,Achnera,Potato,Desi,FAQ,19/08/2024,2000,2220,2130
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Potato,Badshah,FAQ,19/08/2024,2300,2400,2385
+Uttar Pradesh,Badaun,Visoli,Potato,Desi,FAQ,19/08/2024,2000,2000,2000
+Uttar Pradesh,Fatehpur,Fatehpur,Onion,Red,FAQ,19/08/2024,3000,3220,3115
+Uttar Pradesh,Gonda,Gonda,Arhar Dal(Tur Dal),U.P. (Split),FAQ,19/08/2024,14600,15000,14800
+Uttar Pradesh,Gonda,Nawabganj,Onion,Red,FAQ,19/08/2024,3350,3450,3400
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Potato,Badshah,FAQ,19/08/2024,2255,2455,2355
+Uttar Pradesh,Jhansi,Moth,Potato,Desi,FAQ,19/08/2024,2350,2500,2450
+Uttar Pradesh,Prayagraj,Jasra,Onion,Red,FAQ,19/08/2024,3120,3275,3200
+Uttar Pradesh,Prayagraj,Jasra,Potato,Desi,FAQ,19/08/2024,2260,2420,2335
+Uttar Pradesh,Sambhal,Muradabad,Onion,Red,FAQ,19/08/2024,3180,3260,3220
+Uttar Pradesh,Sambhal,Muradabad,Potato,Desi,FAQ,19/08/2024,2200,2260,2230
+Uttar Pradesh,Shahjahanpur,Puwaha,Onion,Red,FAQ,19/08/2024,2700,2900,2800
+Uttar Pradesh,Shamli,Kairana,Onion,Red,FAQ,19/08/2024,1900,2000,1950
+Uttar Pradesh,Sitapur,Sitapur,Onion,Red,FAQ,19/08/2024,2250,3000,2890
+West Bengal,Bankura,Khatra,Wheat,Sonalika,FAQ,19/08/2024,2700,3000,2800
+West Bengal,Birbhum,Bolpur,Potato,Jyoti,FAQ,19/08/2024,2200,2350,2300
+West Bengal,Murshidabad,Jangipur,Potato,Jyoti,FAQ,19/08/2024,2380,2430,2400
+West Bengal,Puruliya,Purulia,Mustard Oil,Mustard Oil,FAQ,19/08/2024,13690,13850,13770
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Onion,Other,FAQ,19/08/2024,3000,3500,3250
+Haryana,Gurgaon,Gurgaon,Potato,Other,FAQ,19/08/2024,1000,2000,1500
+Himachal Pradesh,Kullu,Bhuntar,Potato,Other,FAQ,19/08/2024,2200,3000,2600
+Himachal Pradesh,Mandi,Mandi(Takoli),Potato,Other,FAQ,19/08/2024,2000,2500,2300
+Himachal Pradesh,Sirmore,Paonta Sahib,Onion,Other,FAQ,19/08/2024,3600,4000,3800
+Himachal Pradesh,Una,Una,Onion,Onion,FAQ,19/08/2024,4000,4500,4250
+Karnataka,Chikmagalur,Chikkamagalore,Potato,Other,FAQ,19/08/2024,3202,3402,3302
+Kerala,Alappuzha,Cherthala,Onion,Big,FAQ,19/08/2024,5000,5200,5100
+Kerala,Ernakulam,North Paravur,Potato,(Red Nanital),FAQ,19/08/2024,4500,5500,5000
+Kerala,Ernakulam,Perumbavoor,Onion,Onion,FAQ,19/08/2024,3500,4500,4000
+Kerala,Kannur,Taliparamba,Onion,Onion,FAQ,19/08/2024,4200,4400,4300
+Kerala,Kasargod,Kanjangadu,Onion,Big,FAQ,19/08/2024,4100,4600,4300
+Kerala,Kollam,Kottarakkara,Potato,Other,FAQ,19/08/2024,4000,5000,4000
+Kerala,Kottayam,Kottayam,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,19/08/2024,12300,13700,13000
+Kerala,Kottayam,Pampady,Onion,Big,FAQ,19/08/2024,4200,5200,5000
+Kerala,Kottayam,Pampady,Potato,Other,FAQ,19/08/2024,4400,5300,5000
+Kerala,Kottayam,Thalayolaparambu,Potato,Other,FAQ,19/08/2024,4200,4600,4400
+Kerala,Kozhikode(Calicut),Palayam,Onion,Other,FAQ,19/08/2024,4100,4200,4100
+Kerala,Malappuram,Manjeri,Onion,Other,FAQ,19/08/2024,4100,4200,4150
+Kerala,Palakad,Palakkad,Green Gram (Moong)(Whole),Green (Whole),FAQ,19/08/2024,11500,13000,12300
+Kerala,Palakad,Palakkad,Green Gram (Moong)(Whole),Green Gram Dhall-I,FAQ,19/08/2024,13000,14000,13600
+Kerala,Palakad,Pattambi,Onion,Big,FAQ,19/08/2024,4200,4500,4400
+Kerala,Thirssur,Chavakkad,Onion,Other,FAQ,19/08/2024,4000,4800,4800
+Manipur,Imphal West,Imphal,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,19/08/2024,17000,18000,17500
+Manipur,Imphal West,Imphal,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,19/08/2024,10000,11000,10500
+Manipur,Imphal West,Imphal,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,19/08/2024,7000,8000,7500
+Manipur,Imphal West,Imphal,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,19/08/2024,15000,16000,15500
+Manipur,Imphal West,Imphal,Masur Dal,Masur Dal,FAQ,19/08/2024,10000,11000,10500
+Manipur,Imphal West,Imphal,Potato,Other,FAQ,19/08/2024,3400,4000,3700
+Manipur,Imphal West,Imphal,Rice,Other,FAQ,19/08/2024,5300,5300,5300
+Manipur,Thoubal,Thoubal,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,19/08/2024,13500,14000,13750
+Odisha,Mayurbhanja,Karanjia,Rice,Other,FAQ,19/08/2024,3200,3400,3300
+Punjab,Ferozpur,Mamdot,Potato,Other,FAQ,19/08/2024,2150,2250,2200
+Punjab,Hoshiarpur,Tanda Urmur,Onion,Other,FAQ,19/08/2024,3800,4000,3900
+Punjab,Jalandhar,Lohian Khas,Potato,Other,FAQ,19/08/2024,500,700,600
+Punjab,Ludhiana,Khanna,Potato,Other,FAQ,19/08/2024,1000,1800,1500
+Punjab,Ludhiana,Ludhiana,Onion,Other,FAQ,19/08/2024,1100,3500,2800
+Punjab,Moga,Moga,Potato,Other,FAQ,19/08/2024,1500,2000,1800
+Punjab,Sangrur,Malerkotla,Onion,Other,FAQ,19/08/2024,2300,2800,2700
+Rajasthan,Ganganagar,Suratgarh,Potato,(Red Nanital),FAQ,19/08/2024,1200,1700,1500
+Rajasthan,Hanumangarh,Goluwala,Onion,1st Sort,FAQ,19/08/2024,3800,3800,3800
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4000,4000
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3000,4000,4000
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4000,4000
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4200,4200
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4800,4800
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4300,4500,4500
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,5200,5200
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4600,4800,4800
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5500,5800,5800
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4400,4400
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3000,4000,4000
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6300,7000,7000
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,5000,5000
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,7000,8000,8000
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4400,4400,4400
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5400,5800,5800
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3500,4500,4500
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,5400,5400
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6000,6500,6500
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4700,5000,5000
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,4500,4500
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4200,4500,4500
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5400,5400
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Thirunelveli,Ambasamudram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,4600,4600
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4200,4200
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3500,4500,4500
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4500,4500
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3600,4000,4000
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,6000,6000
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Thiruvarur,Tiruthuraipoondi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,3500,3500,3500
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4000,4000
+Tamil Nadu,Vellore,Vellore,Potato,(Red Nanital),Local,19/08/2024,3800,4000,4000
+Tamil Nadu,Villupuram,Tindivanam,Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Villupuram,Ulundurpettai,Potato,(Red Nanital),Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4800,4800
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,5000,5000
+Tripura,Dhalai,Gandacharra,Rice,Masuri,FAQ,19/08/2024,3600,3800,3700
+Tripura,North Tripura,Kanchanpur,Potato,Potato,FAQ,19/08/2024,3000,3200,3100
+Uttar Pradesh,Agra,Fatehpur Sikri,Onion,Red,FAQ,19/08/2024,3300,3465,3380
+Uttar Pradesh,Baghpat,Khekda,Potato,Potato,FAQ,19/08/2024,1800,2200,2000
+Uttar Pradesh,Etawah,Jasvantnagar,Potato,Potato,FAQ,19/08/2024,2050,2250,2150
+Uttar Pradesh,Farukhabad,Kayamganj,Potato,Desi,FAQ,19/08/2024,2070,2170,2120
+Uttar Pradesh,Fatehpur,Fatehpur,Potato,Desi,FAQ,19/08/2024,2200,2400,2300
+Uttar Pradesh,Gonda,Gonda,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,19/08/2024,7550,7700,7600
+Uttar Pradesh,Gonda,Gonda,Masur Dal,Kala Masoor New,FAQ,19/08/2024,7975,8100,8000
+Uttar Pradesh,Hardoi,Hardoi,Onion,Pusa-Red,FAQ,19/08/2024,2850,2940,2900
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Bengal Gram Dal (Chana Dal),Bengal Gram (Split),FAQ,19/08/2024,7750,7950,7850
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Onion,Red,FAQ,19/08/2024,2960,3160,3060
+Uttar Pradesh,Jhansi,Jhansi,Potato,Desi,FAQ,19/08/2024,2400,2560,2480
+Uttar Pradesh,Lucknow,Lucknow,Onion,Red,FAQ,19/08/2024,2850,3000,2920
+Uttar Pradesh,Prayagraj,Sirsa,Onion,Red,FAQ,19/08/2024,2200,2310,2250
+Uttar Pradesh,Shamli,Kairana,Potato,Desi,FAQ,19/08/2024,1700,1800,1750
+Uttar Pradesh,Sitapur,Viswan,Potato,Desi,FAQ,19/08/2024,2330,2370,2350
+Uttrakhand,Haridwar,Roorkee,Potato,Other,FAQ,19/08/2024,800,1000,900
+Uttrakhand,UdhamSinghNagar,Bazpur,Rice,Common,FAQ,19/08/2024,2850,4000,3100
+West Bengal,Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,19/08/2024,4500,4600,4550
+West Bengal,Bankura,Khatra,Rice,Common,FAQ,19/08/2024,3550,3700,3600
+West Bengal,Darjeeling,Darjeeling,Onion,Other,FAQ,19/08/2024,4800,5000,4900
+West Bengal,Darjeeling,Siliguri,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,19/08/2024,12000,13000,12500
+West Bengal,Darjeeling,Siliguri,Rice,Fine(Basmati),FAQ,19/08/2024,4000,4500,4200
+West Bengal,North 24 Parganas,Barasat,Potato,Other,FAQ,19/08/2024,2620,2620,2620
+West Bengal,Puruliya,Purulia,Rice,Other,FAQ,19/08/2024,3400,3430,3400
+Haryana,Kaithal,Cheeka,Potato,Other,FAQ,19/08/2024,1500,1600,1550
+Haryana,Kurukshetra,Shahabad,Onion,Onion,FAQ,19/08/2024,3471,3650,3500
+Haryana,Sonipat,Ganaur,Onion,Onion,FAQ,19/08/2024,3500,4000,3800
+Haryana,Sonipat,Ganaur,Potato,Potato,FAQ,19/08/2024,2000,2500,2200
+Himachal Pradesh,Kangra,Kangra,Potato,Other,FAQ,19/08/2024,2200,3500,2600
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Potato,Potato,FAQ,19/08/2024,2800,3500,3200
+Himachal Pradesh,Kangra,Palampur,Potato,Other,FAQ,19/08/2024,2500,3500,3200
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Onion,Other,FAQ,19/08/2024,4200,4400,4300
+Himachal Pradesh,Sirmore,Paonta Sahib,Potato,Other,FAQ,19/08/2024,2000,3000,2500
+Kerala,Ernakulam,North Paravur,Onion,1st Sort,FAQ,19/08/2024,4600,6000,5500
+Kerala,Idukki,Thodupuzha,Coconut Oil,Other,FAQ,19/08/2024,19000,20000,19500
+Kerala,Idukki,Thodupuzha,Onion,Small,FAQ,19/08/2024,7000,8000,8000
+Kerala,Idukki,Thodupuzha,Rice,Mataa Parboiled,FAQ,19/08/2024,4600,5000,4800
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,19/08/2024,17800,18500,18000
+Kerala,Kottayam,Athirampuzha,Potato,Potato,FAQ,19/08/2024,4400,4600,4500
+Kerala,Kottayam,Ettumanoor,Onion,Onion,FAQ,19/08/2024,5400,5800,5600
+Kerala,Kottayam,Kanjirappally,Onion,Onion,FAQ,19/08/2024,5500,6000,5800
+Kerala,Kottayam,Kottayam,Rice,Other,FAQ,19/08/2024,4600,5400,5000
+Kerala,Kozhikode(Calicut),Mukkom,Onion,Onion,FAQ,19/08/2024,4300,4500,4400
+Kerala,Kozhikode(Calicut),Quilandy,Onion,Other,FAQ,19/08/2024,4500,4600,4500
+Kerala,Kozhikode(Calicut),Thamarassery,Onion,Other,FAQ,19/08/2024,4100,4700,4300
+Kerala,Palakad,Palakkad,Potato,Potato,FAQ,19/08/2024,4200,5000,4700
+Kerala,Palakad,Pattambi,Potato,Other,FAQ,19/08/2024,3600,4000,3800
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,19/08/2024,18500,19500,19000
+Kerala,Thirssur,Chelakkara,Potato,Other,FAQ,19/08/2024,3800,4000,3900
+Kerala,Thirssur,Kodungalloor,Potato,Other,FAQ,19/08/2024,3800,4200,4000
+Madhya Pradesh,Narsinghpur,Gadarwada,Wheat,Mill Quality,FAQ,19/08/2024,2550,2550,2550
+Madhya Pradesh,Rajgarh,Kurawar,Wheat,Wheat,FAQ,19/08/2024,2200,2200,2200
+Manipur,Bishnupur,Bishenpur,Bengal Gram Dal (Chana Dal),Bengal Gram Dal,FAQ,19/08/2024,10400,11000,10700
+Manipur,Imphal East,Lamlong Bazaar,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,19/08/2024,13000,14000,13500
+Manipur,Imphal West,Imphal,Onion,Other,FAQ,19/08/2024,5200,6000,5600
+Manipur,Thoubal,Thoubal,Masur Dal,Masur Dal,FAQ,19/08/2024,9500,10000,9750
+Nagaland,Mokokchung,Mangkolemba,Potato,Other,FAQ,19/08/2024,3500,4500,4000
+Odisha,Bargarh,Attabira,Onion,Other,FAQ,19/08/2024,4000,4500,4300
+Odisha,Bargarh,Attabira,Potato,Other,FAQ,19/08/2024,3300,4000,3500
+Odisha,Dhenkanal,Hindol,Potato,Potato,FAQ,19/08/2024,3800,4000,3900
+Odisha,Jharsuguda,Jharsuguda,Potato,Other,FAQ,19/08/2024,4000,4000,4000
+Punjab,Bhatinda,Bhagta Bhai Ka,Potato,Other,FAQ,19/08/2024,1800,1800,1800
+Punjab,Bhatinda,Bhucho,Potato,Other,FAQ,19/08/2024,1700,1900,1800
+Punjab,Hoshiarpur,Mukerian(Talwara),Potato,Potato,FAQ,19/08/2024,1800,2200,2000
+Punjab,Mohali,Lalru,Onion,Other,FAQ,19/08/2024,3000,4000,3500
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3500,4000,4000
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6500,7000,7000
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6000,7000,7000
+Tamil Nadu,Coimbatore,Udumalpet,Potato,(Red Nanital),Local,19/08/2024,5500,6500,6500
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5500,5500
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4300,4600,4600
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4300,4600,4600
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4300,4500,4500
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5200,5200
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4400,4800,4800
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5500,5500
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,5000,5000
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4600,4600
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4600,5000,5000
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Namakkal,Tiruchengode,Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,6000,6000
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,10000,10000
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,8000,8000
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,8000,8000
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,6400,6800,6800
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,6000,6000
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5000,7000,7000
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4500,4500
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4000,4500,4500
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,5500,6000,6000
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4400,6500,6500
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,6500,6500
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,4500,4500
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5600,5600
+Tamil Nadu,Thiruvarur,Tiruthuraipoondi(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4000,4000,4000
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3000,3000,3000
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5000,5000
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,4800,4800
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,3800,4000,4000
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,5000,5500,5500
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4800,5000,5000
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Potato,(Red Nanital),Local,19/08/2024,4500,5000,5000
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Onion,Bellary,Local,19/08/2024,4200,5500,5500
+Telangana,Nalgonda,Suryapeta,Arhar (Tur/Red Gram)(Whole),Local,FAQ,19/08/2024,6674,6674,6674
+Tripura,North Tripura,Dasda,Potato,Local,FAQ,19/08/2024,3000,3500,3250
+Tripura,North Tripura,Kanchanpur,Masur Dal,Masur Dal,FAQ,19/08/2024,9000,11000,10000
+Uttar Pradesh,Agra,Achnera,Onion,Red,FAQ,19/08/2024,3350,3450,3400
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Onion,Red,FAQ,19/08/2024,2900,3000,2960
+Uttar Pradesh,Farukhabad,Kayamganj,Onion,Red,FAQ,19/08/2024,3400,3500,3450
+Uttar Pradesh,Fatehpur,Jahanabad,Wheat,Dara,FAQ,19/08/2024,2302,2304,2303
+Uttar Pradesh,Gonda,Gonda,Mustard Oil,Mustard Oil,FAQ,19/08/2024,13300,13600,13500
+Uttar Pradesh,Gonda,Gonda,Onion,Red,FAQ,19/08/2024,3450,3700,3550
+Uttar Pradesh,Hardoi,Hardoi,Potato,Kufri Megha,FAQ,19/08/2024,2300,2400,2350
+Uttar Pradesh,Hathras,Shadabad,Onion,Red,FAQ,19/08/2024,2700,2800,2750
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Wheat,Dara,FAQ,19/08/2024,2370,2570,2470
+Uttar Pradesh,Kaushambi,Manjhanpur,Onion,Red,FAQ,19/08/2024,3060,3230,3140
+Uttar Pradesh,Lucknow,Lucknow,Potato,Desi,FAQ,19/08/2024,2300,2400,2350
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Potato,Desi,FAQ,19/08/2024,2300,2500,2400
+Uttar Pradesh,Prayagraj,Ajuha,Onion,Red,FAQ,19/08/2024,3080,3200,3150
+Uttar Pradesh,Saharanpur,Gangoh,Potato,Desi,FAQ,19/08/2024,2000,2300,2100
+Uttar Pradesh,Shahjahanpur,Puwaha,Potato,Desi,FAQ,19/08/2024,2100,2300,2200
+Uttrakhand,Dehradoon,Vikasnagar,Potato,Other,FAQ,19/08/2024,1200,1200,1200
+Uttrakhand,Haridwar,Roorkee,Onion,Other,FAQ,19/08/2024,1500,2500,2000
+West Bengal,Bankura,Bankura Sadar,Rice,Common,FAQ,19/08/2024,3400,3600,3500
+West Bengal,Bankura,Bishnupur(Bankura),Rice,Common,FAQ,19/08/2024,3550,3700,3600
+West Bengal,Birbhum,Bolpur,Rice,Common,FAQ,19/08/2024,3350,3450,3400
+West Bengal,Dakshin Dinajpur,Balurghat,Potato,Local,FAQ,19/08/2024,2250,2450,2350
+West Bengal,Darjeeling,Darjeeling,Potato,Jyoti,FAQ,19/08/2024,2700,2900,2800
+West Bengal,Darjeeling,Karsiyang(Matigara),Onion,Other,FAQ,19/08/2024,4800,5000,4900
+West Bengal,Darjeeling,Karsiyang(Matigara),Rice,Other,FAQ,19/08/2024,4000,4500,4200
+West Bengal,Darjeeling,Siliguri,Onion,Other,FAQ,19/08/2024,4000,4200,4100
+West Bengal,Jalpaiguri,Moynaguri,Onion,Nasik,FAQ,19/08/2024,4300,4500,4400
+West Bengal,Jalpaiguri,Moynaguri,Potato,Jyoti,FAQ,19/08/2024,2150,2200,2200
+West Bengal,Murshidabad,Jangipur,Onion,Red,FAQ,19/08/2024,3530,3570,3555
+West Bengal,North 24 Parganas,Barasat,Onion,Other,FAQ,19/08/2024,3800,3800,3800
