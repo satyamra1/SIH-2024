@@ -1,5 +1,5 @@
 # SIH-2024
-> Model Creation  [ Divyanshu ] 
+> ML Model Creation  [ Divyanshu ] 
 
 `git clone https://github.com/satyamra1/SIH-2024.git` 
 
@@ -8,7 +8,11 @@
 `git pull`
 
 ### Files -:
-1. mandi food rate.csv
+1. Season.csv
 
-2. untitled.ipynb
+2. Season.ipynb
+
+3. test.db
+
+4. mandi food rates.csv
 

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .form-group button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .form-group button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Data Input Form</h2>
+        <form method="post">
+            <div class="form-group">
+                <label for="state">State:</label>
+                <select id="state" name="state" required>
+                    <option value="">Select State</option>
+                    <!-- Add state options here -->
+                    <option value="Manipur">Manipur</option>
+                    <option value="Tripura">Tripura</option>
+                    <!-- Add more states as needed -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="district">District:</label>
+                <select id="district" name="district" required>
+                    <option value="">Select District</option>
+                    <!-- Add district options here -->
+                    <option value="Bishnupur">Bishnupur</option>
+                    <option value="Gomati">Gomati</option>
+                    <!-- Add more districts as needed -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="variety">Variety:</label>
+                <select id="variety" name="variety" required>
+                    <option value="">Select Variety</option>
+                    <option value="Gram">Gram</option>
+                    <option value="Onion">Onion</option>
+                    <option value="Vanaspati oil">Vanaspati oil</option>
+                    <option value="Groundnut oil">Groundnut oil</option>
+                    <option value="Sugar">Sugar</option>
+                    <option value="Milk">Milk</option>
+                    <option value="Atta">Atta</option>
+                    <option value="Sunflower oil">Sunflower oil</option>
+                    <option value="Tea">Tea</option>
+                    <option value="Moong">Moong</option>
+                    <option value="Soya oil">Soya oil</option>
+                    <option value="Palm oil">Palm oil</option>
+                    <option value="Rice">Rice</option>
+                    <option value="Gur">Gur</option>
+                    <option value="Tomato">Tomato</option>
+                    <option value="Urad">Urad</option>
+                    <option value="Masur">Masur</option>
+                    <option value="Potato">Potato</option>
+                    <option value="Mustard Oil">Mustard Oil</option>
+                    <option value="Salt">Salt</option>
+                    <option value="Tur">Tur</option>
+                    <option value="Wheat">Wheat</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="min_value">Min Value:</label>
+                <input type="number" id="min_value" name="min_value" step="0.01" required>
+            </div>
+
+            <div class="form-group">
+                <label for="max_value">Max Value:</label>
+                <input type="number" id="max_value" name="max_value" step="0.01" required>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="submit">
+            </div>
+        </form>
+    </div>
+    {% if a=="post" %}
+    <h2>
+        Value:
+        {{result}}
+    </h2>
+    {% endif %}
+
+</body>
+</html>
