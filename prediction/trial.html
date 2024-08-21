@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link rel="stylesheet" href="trial.css">
+  </head>
+  <body>
+    <div class="navbar">
+        <div class="navbar-top">
+            <span>भारत सरकार</span>
+            GOVERNMENT OF INDIA
+        </div>
+    
+        <div class="navbar-middle">
+            <div class="logo">
+                <img src="./pngwing.com.png" alt="Government Logo">
+                <div class="title">
+                    <h1>GUIDELINES FOR</h1>
+                    <h2>INDIAN GOVERNMENT WEBSITES AND APPS</h2>
+                </div>
+            </div>
+            <div class="accessibility">
+                <!-- <a href="#">Skip to Main Content</a> -->
+              
+                <div id="google_translate_element"></div>
+
+            </div>
+        </div>
+        <div class="toggle-menu" onclick="toggleMenu()">
+            ☰ Menu
+        </div>
+        <div class="navbar-bottom">
+            <ul id="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Weather Prediction</a></li>
+                <li><a href="#">Government Policy Impact</a></li>
+                <li><a href="#">Commodity Price </a></li>
+                <li><a href="#">Govt. Communications</a></li>
+                <li><a href="#">Resources</a></li>
+                <li><a href="#">WIM Login</a></li>
+            </ul>
+        </div>
+    </div>
+    
+   <div class="parent-block">
+    <div class="block1">
+
+       
+        <h1 class="head"> Agriculture Production</h1>
+        <!--	Year	average_rain_fall_mm_per_year	pesticides_tonnes	avg_temp	Area	Item-->
+          <div class="container">
+    
+            <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="Year">Year</label>
+                <input type="number" class="form-control" name="Year" step="any" value="2013">
+            </div>
+            <div class="form-group">
+                <label for="average_rain_fall_mm_per_year">Average_rain_fall_mm/year</label>
+                <input type="number" class="form-control" name="average_rain_fall_mm_per_year" step="any" >
+            </div>
+            <div class="form-group">
+                <label for="pesticides_tonnes">Pesticides_tonnes</label>
+                <input type="number" class="form-control" name="pesticides_tonnes" step="any" >
+            </div>
+            <div class="form-group">
+                <label for="avg_temp">Avg_temp</label>
+                <input type="number" class="form-control" name="avg_temp" step="any">
+            </div>
+            <div class="form-group">
+                <label for="Area">Area</label>
+                <input type="text" class="form-control" name="Area" >
+            </div>
+            <div class="form-group">
+                <label for="Item">Item</label>
+                <input type="text" class="form-control" name="Item" >
+            </div>
+            <button type="submit" class="btn btn-danger btn-lg mt-2 btn-block">Predict</button>
+        </form>
+        
+    
+        </div>
+       </div>
+    
+       <div class="block2">
+        {% if prediction %}
+        <h1 class="text-center"> Predicted Yield: <br>{{prediction}}</h1>
+    
+        {% endif %}
+        
+       </div>
+    
+   </div>
+
+   <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById("menu");
+            menu.classList.toggle("active");
+        }
+    </script>
+  </body>
+</html>
