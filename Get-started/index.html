@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kissan kalyan</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="preloader"></div>
+    <header>
+       
+       <div class="head">
+        <h1>Kissan He Bhagwan Hai !!</h1>
+       </div>
+
+        <div class="employee-login">
+            <a href="signin.html">
+                <img height="50px" width="50px" src="./swap.png" alt="Login">
+            </a>
+        </div>
+    </header>
+  
+
+
+    <section class="get-started-container">
+        <!-- <h2 class=" animate__animated animate__fadeIn animate__infinite animate__delay-0.5s animate-duration-1s">⬇⬇</h2> -->
+        <div class="farmer-input">
+            <label for="states">Choose a state:</label>
+            <div class="select-wrapper">
+                <select id="states" onchange="updateCities()">
+                    <option value="">Select State</option>
+                    <option value="Uttar_Pradesh">Uttar Pradesh</option>
+                    <option value="Uttarakhand">Uttarakhand</option>
+                    <option value="Haryana">Haryana</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Bihar">Bihar</option>
+                </select>
+            </div>
+        <br>
+            <label for="cities">Choose a city:&nbsp&nbsp</label>
+            <div class="select-wrapper">
+                <select id="cities">
+                    <option value="">Select City</option>
+                </select>
+            </div>
+        <br>
+        <a href="index2.html" class="get-started-btn  ">Get Started</a>
+         </div>
+       
+    </section>
+
+ 
+    <footer>
+        &copy; 2024 Consumer Affair and public distribution All rights reserved.
+    </footer>
+
+    <script>
+        const fadeOut=()=>{
+            const loader = document.querySelector(".preloader");
+            loader.classList.remove("preloader");
+        }
+        window.addEventListener("load",fadeOut);
+    </script>
+
+    <script>
+        const cityData = {
+            Uttar_Pradesh: ["Agra", "Aligarh", "Amroha", "Ayodhya", "Azamgarh", "Bahraich", "Ballia", "Banda", "Bara Banki", "Bareilly", "Basti", "Bijnor", "Bithur", "Budaun", "Bulandshahr", "Deoria", "Etah", "Etawah", "Faizabad", "Farrukhabad-cum-Fatehgarh", "Fatehpur", "Fatehpur Sikri", "Ghaziabad", "Ghazipur", "Gonda", "Gorakhpur", "Hamirpur", "Hardoi", "Hathras", "Jalaun", "Jaunpur", "Jhansi", "Kannauj", "Kanpur", "Lakhimpur", "Lalitpur", "Lucknow", "Mainpuri", "Mathura", "Meerut", "Mirzapur-Vindhyachal", "Moradabad", "Muzaffarnagar", "Partapgarh", "Pilibhit", "Prayagraj", "Rae Bareli", "Rampur", "Saharanpur", "Sambhal", "Shahjahanpur", "Sitapur", "Sultanpur", "Tehri", "Varanasi"],
+            Uttarakhand: ["Almora", "Dehra Dun", "Haridwar", "Mussoorie", "Nainital", "Pithoragarh"],
+            Haryana: ["Ambala", "Bhiwani", "Chandigarh", "Faridabad", "Firozpur Jhirka", "Gurugram", "Hansi", "Hisar", "Jind", "Kaithal", "Karnal", "Kurukshetra", "Panipat", "Pehowa", "Rewari", "Rohtak", "Sirsa", "Sonipat"],
+            Delhi: ["Delhi", "New Delhi"],
+            Bihar: ["Ara", "Barauni", "Begusarai", "Bettiah", "Bhagalpur", "Bihar Sharif", "Bodh Gaya", "Buxar", "Chapra", "Darbhanga", "Dehri", "Dinapur Nizamat", "Gaya", "Hajipur", "Jamalpur", "Katihar", "Madhubani", "Motihari", "Munger", "Muzaffarpur", "Patna", "Purnia", "Pusa", "Saharsa", "Samastipur", "Sasaram", "Sitamarhi", "Siwan"]
+        };
+
+    function updateCities() {
+        const stateSelect = document.getElementById('states');
+        const citySelect = document.getElementById('cities');
+        const selectedState = stateSelect.value;
+        
+        // Reset city dropdown
+        citySelect.innerHTML = "<option value=''>Select City</option>"; 
+
+        if (selectedState && cityData[selectedState]) {
+            cityData[selectedState].forEach(city => {
+                const option = document.createElement("option");
+                option.value = city;
+                option.text = city;
+                citySelect.appendChild(option);
+            });
+        }
+    }
+    </script>
+</body>
+</html>
