@@ -10,7 +10,7 @@ def create_app():
     if os.getenv("ENV","devlopment")=="production":
         raise Exception("Currently working on it...")
     else:
-        print("gfds")
+        #print("gfds")
         app.config.from_object(LocalDevlopmentConfig)
         db.init_app(app)
         app.app_context().push()
